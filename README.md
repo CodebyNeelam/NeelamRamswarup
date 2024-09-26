@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Neelam | Software Engineer | Data Scientist | AI & Machine Learning Enthusiast
+# | Software Engineer | Data Scientist | AI & Machine Learning Enthusiast
 
 Leveraging years of experience in Software Engineering, Data Analytics, and Mentorship to create impactful projects and drive innovation.
 
