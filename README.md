@@ -1,7 +1,7 @@
 
 # Data Scientist| Data Analytics Specialist | AI & Machine Learning Enthusiast | Mentor & Educator | Certified Yoga Teacher |
 
-Leveraging years of experience in Software Engineering, Data Analytics, and Mentorship to create impactful projects and drive innovation.
+Leveraging years of experience in Data Science, Data Analytics, and Mentorship to create impactful projects and drive innovation.
 
 ## 🚀 About Me
 
